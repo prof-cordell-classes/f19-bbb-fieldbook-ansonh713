@@ -4,11 +4,11 @@
 
 The first idea that I want to engage with is the "laws of typography" that Ellen Lupton's _Thinking With Type_ sets out for the reader. Lupton notes various "type crimes" often throughout the book, detailing typography faux pas that any budding designer should avoid. Some of them I agree with, for example, this alignment that shaped the text in a distracting way:
 
-![Type Crime: The right edge of this left-aligned text forms a weird wedge.](/images/Lupton_Crime1.png)  
+![Type Crime: The right edge of this left-aligned text forms a weird wedge.](/images/Lupton_Crime1.PNG)  
 
 Others, not so much. For example, a set of signs that Lupton rails against for having an incorrect use of straight hatch marks versus curly apostrophes or quotations:
 
-![Type Crime: The apostrophes in "Eva's" or "L'Occitane" have been replaced by hatch marks.](/images/Lupton_Crime2.png)
+![Type Crime: The apostrophes in "Eva's" or "L'Occitane" have been replaced by hatch marks.](/images/Lupton_Crime2.PNG)
 
 In my opinion, the difference here is minuscule and Lupton's complaint is unreasonably picky. However, during discussion, someone who had taken typography courses brought up that those rules are taught because breaking them is eye-catching, so established designers can break the rules to make a statement or draw attention. In essence, these rules are made to be broken. This is a fair point that I hadn't considered, but I'm not fully convinced. First, I would hardly call some of these "type crimes" eye-catching, especially with something like in my second example, where a single character has been changed and the text is still fully readable. I don't think most New Yorkers would give the sign's mistake a second glance. Second, even for more valid complaints, I worry about the messages Lupton sends with her wording. Of course, I understand that she is likely dramatizing the importance when she calls it a crime. But the language has potential to be stifling to young creators that are using the book as a guide. If a new typographer sees all these "crimes" and internalizes those rules as absolute law, we might be losing some creative innovation. Baskerville, too, was accused of casting letters so narrow that readers would go blind (Lupton, p. 17), but look where we are today. Artistic conventions should not be treated as law, and I think Lupton might be overstepping a bit when she criminalizes design choices that might just be different from the norm.  
 
